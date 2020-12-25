@@ -2,7 +2,7 @@
 
 > 게으른 초보 개발자가 코드를 밥 먹듯이 쓸 때까지 이용할 공간
 
-C language Programming**
+C language Programming
 
 - Start: 2020.12.25~
 
